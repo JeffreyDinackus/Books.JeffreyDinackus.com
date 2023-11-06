@@ -10,7 +10,7 @@ function Navbar() {
           Hello world!
         </h1>
 
-        <p className='font-sans md:font-mono'>PIES</p>
+        <p className='font-sans md:font-mono text-blue-600 lg:text-green-600'>PIES</p>
 
       </navbar>
 
