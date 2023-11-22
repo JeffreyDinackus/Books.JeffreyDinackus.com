@@ -17,5 +17,6 @@ react front end -> api gateway -> lambda -> mongodb
 react front end <- api gateway <- lambda <-
 
 
+self host on ec2? actually, might not work because my domain is set to pages
 
-
+https://dev.to/vincenius/self-hosting-your-web-app-on-an-ubuntu-server-1ple
