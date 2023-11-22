@@ -10,8 +10,6 @@ function App() {
     <>
       <Navbar />
       <Books />
-
-
       <Footer />
 
     </>

@@ -1,4 +1,21 @@
-add shadui
+add basic ui with a library
+
+tweak styles with tailwind
+
+dynamically load books in the order I want on page load 
+
+build interface that is scalable and input from web from
+
+add authentication and allow myself to upload to mongo 
+
+add db for books(mongo).
 
 
-build interface that is scalable. 
+loading of dynamic elements
+
+react front end -> api gateway -> lambda -> mongodb 
+react front end <- api gateway <- lambda <-
+
+
+
+
