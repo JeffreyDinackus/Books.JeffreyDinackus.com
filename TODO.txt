@@ -25,3 +25,4 @@ I could run docker on EC2 to host. With docker compose watch, a script to autoru
 
 https://medium.com/appgambit/part-1-running-docker-on-aws-ec2-cbcf0ec7c3f8
 
+ecr has free storage 500 mb
