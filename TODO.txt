@@ -20,3 +20,8 @@ react front end <- api gateway <- lambda <-
 self host on ec2? actually, might not work because my domain is set to pages
 
 https://dev.to/vincenius/self-hosting-your-web-app-on-an-ubuntu-server-1ple
+
+I could run docker on EC2 to host. With docker compose watch, a script to autorun git pull every hour(?)
+
+https://medium.com/appgambit/part-1-running-docker-on-aws-ec2-cbcf0ec7c3f8
+
