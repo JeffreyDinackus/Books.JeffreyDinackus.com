@@ -1,13 +1,19 @@
 import { useState } from 'react'
 import './App.css'
+import Navbar from './navbar/navbar.jsx'
+import Footer from './Footer/Footer.jsx'
+import Books from './Books/Books.jsx'
 
 function App() {
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline text-orange-600 font-sans hover:font-serif">
-        Hello world!
-      </h1>
+      <Navbar />
+      <Books />
+
+
+      <Footer />
+
     </>
   )
 }
